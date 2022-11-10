@@ -1,5 +1,5 @@
-input.onButtonPressed(Button.A, function () {
-	
+input.onButtonPressed(Button.AB, function () {
+    control.reset()
 })
 let nombre = 0
 let etat_actuel = 0
